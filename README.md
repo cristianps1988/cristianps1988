@@ -63,7 +63,7 @@ When I'm not working, I enjoy spending time with family, listening to rock music
 
 <br/>
 
-# 🌐 Contact me:
+# 🌐 Connect with me:
 <div align="center">
 <p> If you are looking for a frontend developer with leadership and teamwork experience, don't doubt to contact me. <p/>
   
