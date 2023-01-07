@@ -18,9 +18,9 @@
 
 # 💫 About Me:
 
-<p align="justify"> I am Cristian Peña, frontend developer based in Valledupar, Colombia. I have more than 10 years of experience working in the sports field, where I managed sports teams and work teams. I also have experience as a university education teacher. In these positions I learned to lead groups, to work in teams, to be perseverant and to communicate assertively. 
+<p align="justify"> I'm Cristian Peña, frontend developer based in Colombia. I have more than 10 years of experience working in the sports field, where I managed sports teams and was in charge of work teams. I also have experience as a university education teacher. In these positions I learned to lead groups, to work in teams, to be perseverant and to communicate assertively. 
 In 2022, my passion for technology led me to make the decision to start learning web development at the age of 34. 
-When I'm not working, I enjoy spending time with family, listening to rock music, and outdoor activities such as swimming and playing tennis. <p/>
+In my free time I enjoy spending time with my family, listening to rock music and practicing outdoor activities such as swimming and playing tennis. <p/>
 
 
 - 🔭 I’m currently working as a sports teacher on [Areandina](https://areandina.edu.co)  
