@@ -52,13 +52,13 @@ In my free time I enjoy spending time with my family, listening to rock music an
 # 📊 GitHub Stats:
 
 <div align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianps1988&count_private=true&show_icons=true&?theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristianps1988&count_private=true&show_icons=true&?theme=radical" />
 </div>
 
 <br/>  
 
 <div align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianps1988&layout=compact" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristianps1988&layout=compact" />
 </div>
 
 <br/>
