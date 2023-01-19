@@ -1,9 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+# 👋 Hello World!
 
-### <div align="center">Frontend developer 👨‍💻 I started my journey in IT at 34 years old. 🚀</div>  
-<br/>  
+### I'm a 🇨🇴 frontend developer 👨‍💻 I started my journey in IT at 34 years old. 🚀
+<br/> 
+
+<div align="center">
+
+![snake gif](https://github.com/cristianps1988/cristianps1988/blob/output/github-contribution-grid-snake.gif)
+
+</div> 
 
 # 💫 About Me:
 
@@ -61,11 +65,4 @@ In my free time I enjoy spending time with my family, listening to rock music an
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Jrr8Vrk8) 
 [![Github](https://img.shields.io/badge/Github-%2324292e.svg?logo=github&logoColor=white)](https://github.com/cristianps1988)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cristianps&&style=flat-square" align="center" /></p>
-</div>  
-
-# 🐍 My contributions 
-<div align="center">
-
-![snake gif](https://github.com/cristianps1988/cristianps1988/blob/output/github-contribution-grid-snake.gif)
-
 </div>  
