@@ -68,7 +68,7 @@ In my free time I enjoy spending time with my family, listening to rock music an
 <div align="center">
 <p> If you are looking for a frontend developer with leadership and teamwork experience, don't doubt to contact me. <p/>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianps1988) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristiancamilopena) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cristianps1988) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Jrr8Vrk8) 
 [![Github](https://img.shields.io/badge/Github-%2324292e.svg?logo=github&logoColor=white)](https://github.com/cristianps1988)
