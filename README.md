@@ -2,9 +2,7 @@
 
 ### I'm a 🇨🇴 frontend developer 👨‍💻 I started my journey in IT at 34 years old. 🚀
 <br/> 
-
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianps1988/cristianps1988/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianps1988/cristianps1988/output/github-contribution-grid-snake.svg">
