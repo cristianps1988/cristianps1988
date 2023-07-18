@@ -11,7 +11,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristianps1988/cristianps1988/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 ![snake gif](https://github.com/cristianps1988/cristianps1988/blob/output/github-contribution-grid-snake.gif)
+-->
 
 </div> 
 
