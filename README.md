@@ -22,9 +22,9 @@ In 2022, my passion for technology led me to make the decision to start learning
 In my free time I enjoy spending time with my family, listening to rock music and practicing outdoor activities such as swimming and playing tennis. <p/>
 
 
-- 🔭 I’m currently working as a sports teacher on [Areandina](https://areandina.edu.co)  
+- 🔭 I’m currently working as a FullStack Developer on [QZL Studio](https://www.qzlstudio.com)  
 
-- 🌱 I’m currently learning React    
+- 🌱 I’m currently learning PHP, Adobe Commerce    
 
 - ⚡ Fun fact: I use tabs over spaces  
   
