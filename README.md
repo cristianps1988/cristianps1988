@@ -18,7 +18,7 @@
 # 💫 About Me:
 
 <p align="justify"> 
-I'm a frontend developer with +2 years of experience working on ecommerce platforms, with experience using React, TypeScript, and modern web tools. My focus is creating clean, scalable code, improving website performance, and developing reusable UI components.
+I'm a frontend developer with +3 years of experience working on ecommerce platforms, with experience using React, TypeScript, and modern web tools. My focus is creating clean, scalable code, improving website performance, and developing reusable UI components.
 
 In recent roles, I've:
 - Built and optimized ecommerce platforms with React, Redux, GraphQL, and REST APIs, enhancing performance and user experience.
