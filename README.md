@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-### I'm a 🇨🇴 Fullstack developer 👨‍💻 I started my journey in IT at 34 years old. 🚀
+### I'm a 🇨🇴 Frontend developer 👨‍💻 I started my journey in IT at 34 years old. 🚀
 <br/> 
 <div align="center">
 <picture>
@@ -17,15 +17,20 @@
 
 # 💫 About Me:
 
-<p align="justify"> I'm Cristian Peña, fullstack developer based in Colombia. I have more than 10 years of experience working in the sports field, where I managed sports teams and was in charge of work teams. I also have experience as a university education teacher. In these positions I learned to lead groups, to work in teams, to be perseverant and to communicate assertively. 
-In 2022, my passion for technology led me to make the decision to start learning web development at the age of 34. 
-In my free time I enjoy spending time with my family, listening to rock music and practicing outdoor activities such as swimming and playing tennis. <p/>
+<p align="justify"> 
+I'm a frontend developer with +2 years of experience working on ecommerce platforms, with experience using React, TypeScript, and modern web tools. My focus is creating clean, scalable code, improving website performance, and developing reusable UI components.
+
+In recent roles, I've:
+- Built and optimized ecommerce platforms with React, Redux, GraphQL, and REST APIs, enhancing performance and user experience.
+- Created component libraries using Tailwind CSS, Emotion, and Storybook, speeding up feature delivery and maintaining high test coverage.
+- Improved CSS architecture and frontend practices, making it easier and faster to build new features.
+- Worked effectively in agile teams, meeting deadlines consistently and suggesting improvements for better performance and maintainability.
+
+I enjoy solving frontend challenges, keeping code organized and maintainable, and continually learning new ways to enhance user experiences.
+<p/>
 
 
-- 🔭 I’m currently working as a FullStack Developer on [QZL Studio](https://www.qzlstudio.com)  
-
-- 🌱 I’m currently learning PHP, Adobe Commerce    
-
+- 🔭 I’m currently working as a Frontend Developer on [PitsDepot](https://pitsdepot.com)  
 - ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
@@ -89,7 +94,7 @@ In my free time I enjoy spending time with my family, listening to rock music an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristiancamilopena) 
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cristianps1988) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Jrr8Vrk8) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.pesan/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianps.dev/) 
 
 <!--- [![Github](https://img.shields.io/badge/Github-%2324292e.svg?logo=github&logoColor=white)](https://github.com/cristianps1988) -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cristianps&&style=flat-square" align="center" /></p>
