@@ -30,7 +30,7 @@ I enjoy solving frontend challenges, keeping code organized and maintainable, an
 <p/>
 
 
-- 🔭 I’m currently working as a Frontend Developer on [PitsDepot](https://pitsdepot.com)  
+- 🔭 I’m currently working as a Software Engineer on [EasePractice](https://easepractice.com/)  
 - ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
